@@ -10,7 +10,7 @@
 
 ## Horas de trabalho
 
-[![unsuspected2 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unsuspected2)](https://github.com/anuraghazra/github-readme-stats)
+/*[![unsuspected2 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unsuspected2)](https://github.com/anuraghazra/github-readme-stats)*/
 
 ## Tecnologias que eu uso no meu dia a dia:
 
