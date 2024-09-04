@@ -8,6 +8,10 @@
 
 ![insuspeitado2 GitHub stats](https://github-readme-stats.vercel.app/api?username=insuspeitado2&show_icons=true&theme=dark)
 
+## Horas de trabalho
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=insuspeitado2)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia a dia:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
