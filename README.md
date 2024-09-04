@@ -1,4 +1,4 @@
-### ✋🏽 Olá, sou @insuspeitado2
+### ✋🏽 Olá, sou @unsuspected2
 ### 😄 Pronomes: Ele/Dele
 ### ⚡ Curiosidade: adoro explorar novos gadgets tecnológicos e aprender sobre seu funcionamento interno.
 👀 Tenho interesse em segurança cibernética, programação e tecnologia.
@@ -6,11 +6,11 @@
 
 ### 💞️ Estou procurando colaborar em projetos de desenvolvimento full-stack e iniciativas de segurança cibernética.
 
-![insuspeitado2 GitHub stats](https://github-readme-stats.vercel.app/api?username=insuspeitado2&show_icons=true&theme=dark)
+![unsuspected2 GitHub stats](https://github-readme-stats.vercel.app/api?username=unsuspected2&show_icons=true&theme=dark)
 
 ## Horas de trabalho
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=insuspeitado2)](https://github.com/anuraghazra/github-readme-stats)
+[![unsuspected2 WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unsuspected2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia:
 
